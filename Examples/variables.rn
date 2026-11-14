@@ -1,0 +1,6 @@
+val string1:String = "str1"
+var string2:String = "str2"
+val int:Int        = 5
+
+print(string1.. " ".. string2)
+print(int)

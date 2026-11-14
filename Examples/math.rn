@@ -1,0 +1,3 @@
+print("3+2="..tostring(3+2))
+print("19/5="..tostring(19/5))
+print("2-6="..tostring(2-6))
